@@ -2,7 +2,7 @@ def square_array(array)
   array = []
   count = 0
   array.each do |integer|
-   {integer}
+   integer
    count**=1
    end
 end
