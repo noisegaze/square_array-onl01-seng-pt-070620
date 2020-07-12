@@ -4,3 +4,4 @@ def square_array(array)
   puts  integer **
 end
 end
+square_array(array)
