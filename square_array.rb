@@ -3,4 +3,5 @@ def square_array(array)
    puts {integer}
    integer**=2 
    end
+   new_array
 end
